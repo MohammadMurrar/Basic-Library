@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string-array name="Books">
+        <item>Programming</item>
+        <item>DataBase</item>
+        <item>Web</item>
+        <item>SoftWare Engineer</item>
+        <item>Networking</item>
+    </string-array>
+</resources>
